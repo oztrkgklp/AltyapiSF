@@ -1,0 +1,12 @@
+{
+  "name": "altyapisf",
+  "version": "1.0.0",
+  "description": "Metin2 Sıfırdan Altyapı Server Files Hazırlama Rehberini hazırlarken oluşturduğum server files. Rehbere bakmak isterseniz: https://www.mmotutkunlari.com/konu/metin2-sifirdan-altyapi-server-files-hazirlama-rehberi.7141",
+  "main": "index.js",
+  "scripts": {
+    "start": "source .env && docker compose up -d --build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
